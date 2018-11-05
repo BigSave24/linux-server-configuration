@@ -264,4 +264,5 @@ Enable the virtual host\
 Restart the Apache web server\
 `sudo service apache2 restart`
 
-### Navigate to the AWS Lightsail server's public IP http://34.205.122.25
+### Navigate to the AWS Lightsail server's public IP
+#### Public IP http://34.205.122.25 Port 80
