@@ -266,3 +266,14 @@ Restart the Apache web server\
 
 ### Navigate to the AWS Lightsail server's public IP
 #### Public IP http://34.205.122.25 Port 80
+
+### Resources
+- [Ubuntu Docs](https://packages.ubuntu.com/)
+- [FlaskDocs](http://flask.pocoo.org/docs/1.0/)
+- [PostgreSQL Docs](https://www.postgresql.org/docs/9.5/static/docguide.html)
+- [Python2 Docs](https://docs.python.org/2/index.html)
+- [SQLAlchemy Docs](https://docs.sqlalchemy.org/en/latest/index.html)
+- [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+- [Stueken's GitHub Repository](https://github.com/stueken/FSND-P5_Linux-Server-Configuration)
+- [iliketomatoes' GitHub Repository](https://github.com/iliketomatoes/linux_server_configuration)
+- [Stackoverflow](https://stackoverflow.com/)
